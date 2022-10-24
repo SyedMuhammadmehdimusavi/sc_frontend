@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;1,700&display=swap');
 
 body {
-    background-color: #dedede;
+    background-color: #a19b9b;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -17,15 +17,15 @@ footer {
     height: 90%;
 }
 #section1 {
-    background-color: rgb(172, 168, 168);
+    background-color: rgb(255, 255, 255);
     border-radius: 15px;
 }
 #section2 {
-    background-color: rgb(172, 168, 168);
+    background-color: rgb(255, 255, 255);
     border-radius: 15px;
 }
 #section3 {
-    background-color: rgb(172, 168, 168);
+    background-color: rgb(255, 255, 255);
     border-radius: 15px;
 }
 
